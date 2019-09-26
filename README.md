@@ -1,4 +1,4 @@
-> 这是对[mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)的翻译，语言描述上译者按照自己的理解，忽略了一些具有文化差异的比喻，典故，引用（圣经等），希望语言描述上更接近博客的表述方式，但对代码理解上的描述完全遵照作者本意，并会保留英文原文。
+> 这是对[mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)的翻译，语言描述上译者按照自己的理解，忽略了一些具有文化差异的比喻，典故，引用（圣经等），希望语言描述上更接近博客的表述方式，但对代码理解和翻译完全遵照作者本意，并会保留英文原文。
 
 [![cover](images/cover.png)](SUMMARY.md)
 
